@@ -649,3 +649,35 @@ eg:分析26个英文字母组成的英文表
 ![](.\images\6_21.png)
 
 ![](.\images\6_22.png)
+
+
+
+
+
+#### 2.4 线性表的顺序存储
+
+![](.\images\7_1.png)
+
+![](.\images\7_2.png)
+
+![](.\images\7_3.png)
+
+![](.\images\7_4.png)
+
+![](.\images\7_5.png)
+
+![](.\images\7_6.png)
+
+![](.\images\7_7.png)
+
+![](.\images\7_8.png)
+
+![](.\images\7_8.png)
+
+![](.\images\7_11.png)
+
+![](.\images\7_12.png)
+
+![](.\images\7_13.png)
+
+![](.\images\7_14.png)
